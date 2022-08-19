@@ -33,3 +33,7 @@ Minha monografia completa esta disponível em [clique aqui](https://repositorio.
 ### Estatísticas Descritivas 
 
 ![Isso é uma imagem](https://github.com/iamtheleos/Dofile-Monografia/blob/main/estat_descr.PNG)
+
+### Resultado da Estimação do Modelo Logit 
+
+![Isso é uma imagem](https://drive.google.com/drive/folders/1WkxhQR5oCUa4nVV9KDoV_0L1aq7mVfYe)
