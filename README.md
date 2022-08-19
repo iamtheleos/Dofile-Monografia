@@ -34,6 +34,6 @@ Minha monografia completa esta disponível em [clique aqui](https://repositorio.
 
 ![Isso é uma imagem](https://github.com/iamtheleos/Dofile-Monografia/blob/main/estat_descr.PNG)
 
-### Resultado da Estimação do Modelo Logit 
+### Saída da Regressão
 
-![Isso é uma imagem](https://drive.google.com/drive/folders/1WkxhQR5oCUa4nVV9KDoV_0L1aq7mVfYe)
+![Isso é uma imagem](https://github.com/iamtheleos/Dofile-Monografia/blob/main/output_reg.PNG)
