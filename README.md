@@ -25,4 +25,4 @@ Estado em termos de oportunidades para todos, o IOH ainda é muito baixo (37,4%)
 ideal (IOH = 1), que ocorre quando o acesso é universal (p̂ = 1) e não há desigualdade de
 oportunidades.
 
-Minha monografia completa esta disponível em 
+Minha monografia completa esta disponível em [clique aqui](https://repositorio.ufgd.edu.br/jspui/handle/prefix/2925)
