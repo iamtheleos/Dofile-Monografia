@@ -26,3 +26,10 @@ ideal (IOH = 1), que ocorre quando o acesso é universal (p̂ = 1) e não há de
 oportunidades.
 
 Minha monografia completa esta disponível em [clique aqui](https://repositorio.ufgd.edu.br/jspui/handle/prefix/2925)
+
+
+## Resultados
+
+### Estatísticas Descritivas 
+
+![Isso é uma imagem](https://github.com/iamtheleos/Dofile-Monografia/blob/main/estat_descr.PNG)
