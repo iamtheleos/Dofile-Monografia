@@ -2,12 +2,12 @@
 Neste repositório, disponibilizo as rotinas do STATA onde crio as variáveis e monto minha amostra a partir dos dados da PNAD de 2005 e 2015 para estimar a demanda potencial por ensino superior no estado do MS. Mostro as estatísticas descritivas, o resultado da regressão logística para estimas as probabilidades de acesso de cada grupo (combinação de características individuais e socioeconômicas) ao ensino superior do Estado do MS.
 
 
-##Título: 
+## Título: 
 
 A desigualdade de oportunidades no acesso ao ensino superior no Estado de Mato Grosso do Sul
 
 
-##Resumo:
+## Resumo:
 
 
 Este trabalho tem como objetivo analisar a desigualdade de oportunidades no acesso ao ensino
